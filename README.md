@@ -200,7 +200,7 @@ This system enables HR teams to:
 **Azli Khan**
 Aspiring Data Engineer | HR Analytics | Python | SQL | Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/azli-k-870328326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/azli-khan07/)
 [![GitHub](https://img.shields.io/badge/GitHub-Azli45-181717?logo=github)](https://github.com/Azli45)
 
 ---
